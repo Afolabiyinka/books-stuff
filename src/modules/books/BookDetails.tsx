@@ -85,7 +85,7 @@ const BookDetails = () => {
               </p>
 
               {/* Title */}
-              <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold text-gray-900 mb-4 md:mb-6">
+              <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold  mb-4 md:mb-6">
                 {book.title}
               </h1>
 
